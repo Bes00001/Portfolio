@@ -1,0 +1,250 @@
+
+body {
+    width: auto;
+    height: auto;
+    margin: 0;
+    padding: 0;
+    background: url(/img/fon.jpg) no-repeat center center fixed;
+    background-size: cover;
+    background-color: #0A1117;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+}
+
+.container {
+    width: 1200px;
+    height: auto;
+    margin: 0px auto;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+img[alt] {
+    color: #ffffff;
+    font-size: 14px;
+}
+
+h4 {
+    display: inline;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background: #00000088;
+    margin-top: 13px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+    
+
+
+            /* Header-start 
+                В шапке находятся номер телефона, ссылка на главную страницу, 
+                при переходе на другие страницы в шапке появляется ссылки на другие странички.
+            */
+
+.phone a {
+    margin-left: 75px;
+    font-weight: 500;
+    color: #b87333;
+}
+
+.phone {
+    padding-left: 20%;
+}
+
+.myPhone {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.phoneInfo {
+    width: 209px;
+    height: 19px;
+    outline: 1px solid #d3e015;
+    border-radius: 5px;
+}
+
+.header {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    opacity: 0.55;
+    background-color: black;
+    transition-duration: 500ms;
+    transition-property: all;
+}
+
+.link {
+    margin: 0px 15px 0px 0px;
+}
+
+.navbar {
+    padding: 80px 0 0 0;
+}
+
+.block1:hover {
+    color: #473b43;
+    transition-duration: 1000ms;
+}
+
+.pages:hover {
+    color: #102c2e;
+    transition-duration: 800ms;
+}
+
+
+                /* Header-end */
+
+            /* Foto-start 
+                Находится фото, фамилия и имя, анимация вокруг фото.
+            */
+.foto {
+    width: auto;
+    height: 170px;
+}
+
+.fotoBeslan {
+    width: 170px;
+    height: 170px;
+    margin: auto;
+}
+
+.beslanfoto {
+    width: 160px;
+    height: 160px;
+}
+
+.nameBeslan {
+    position: absolute;
+    padding: 35px;
+    padding-top: 109px;
+    font-size: 1.1ch;
+    font-weight: 900;
+    color: #5338c2;
+}
+
+.animation {
+    padding-left: 43px;
+    margin-top: -206px;
+}
+
+.circle {
+    top: 20%;
+    left: 50%;
+    width: 116px;
+    height: 116px;
+    border-radius: 50%;
+    border: 3px solid rgb(246 1 150 / 65%);
+    border-top: 3px solid #473cd4;
+    animation: animate 2s infinite linear;
+}
+
+@keyframes animate {
+    0% {
+        transform: translate(-20%, 50%) rotate(0deg);
+    }
+    100% {
+        transform: translate(-20%, 50%)rotate(360deg);
+    }
+}
+            
+
+                /* Foto-end */
+
+            /* Skill-start 
+                Находится перечень знаний.
+            */
+
+.section {
+    width: 725px;
+    height: 250px;
+    color: black;
+    background-color: #ffffff;
+    overflow: auto;
+    margin: auto;
+    border-radius: 20px;
+    background-image: linear-gradient(120deg, #1a1719, #6d789e);
+}
+
+.linkPHP:hover, .linkYii2:hover, .linkLaravel:hover, .linkJavaScript:hover, .linkVueJS:hover, .linkjQuery:hover, .linkDB:hover, .linkMySQL:hover, .linkSQL:hover {
+    color: #ffffffab;
+    transition-duration: 800ms;
+}
+
+.section1, .section2, .section3 {
+    padding-left: 60px;
+    padding-top: 10px;
+    font-size: 24px;
+}
+
+.section4 h5 {
+    color: #ffffff;
+    padding-left: 80px;
+    margin-block: 10px;
+    font-size: 22px;
+    font-weight: 400;
+}
+
+.linkPHP, .linkYii2, .linkLaravel {
+    color: #ffdd28;
+    padding-left: 20px;
+}
+
+.linkJavaScript, .linkVueJS, .linkjQuery {
+    color: #60d38e;
+    padding-left: 20px;
+}
+
+.linkDB, .linkMySQL, .linkSQL {
+    color: #39a1a6;
+    padding-left: 20px;
+}
+
+                /* Skill-end */
+
+            /* Footer-start 
+              Подвал сайта с небольшим описанием личности.
+            */
+.footer {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    opacity: 0.55;
+    position: fixed;
+    top: 88%;
+    color: aliceblue;
+    background-color: black;
+}
+
+.foooterinfo {
+    margin: 0 auto;
+}
+
+.instIcon {
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+}
+
+.waIcon {
+    width: 32px;
+    height: 32px;
+    margin-top: 10px;
+    margin-left: 2px;
+}
+
+.infoBeslan {
+    font-weight: 300;
+    margin: 2px;
+}
+
+            /* Footer-end */
+
+
+
+

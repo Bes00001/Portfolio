@@ -1,0 +1,482 @@
+@media only screen and (max-width: 1200px) {
+
+    .container {
+        max-width: 992px;
+        margin: 0px 0px 0px 87px;
+        padding: 0px 15px;
+    }
+    .navbar {
+        padding: 50px 0 0 0;
+    }
+
+    .phone {
+        padding-left: 5%;
+    }
+
+
+    .link a {
+        margin-left: 0px;
+    }
+
+    .linkPHP, .linkYii2, .linkLaravel {
+        color: #ffdd28;
+        padding-left: 15px;
+    }
+
+    .linkJavaScript, .linkVueJS, .linkjQuery {
+        color: #60d38e;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .beslan {
+        width: 170px;
+        height: 145px;
+        margin: auto;
+    }
+
+    .section {
+        width: 721px;
+        height: 240px;
+        color: #000000;
+        background-color: #ffffff;
+        overflow: auto;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .section1, .section2, .section3 {
+        padding-left: 0px;
+        padding-top: 8px;
+        font-size: 26px;
+    }
+
+    hr {
+        height: 2px;
+        border: none;
+        background: #00000088;
+        margin-top: 13px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section4 h5 {
+        color: #ffffff;
+        padding-left: 15px;
+        margin-block: -1px;
+        font-size: 26px;
+        font-weight: 400;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        opacity: 0.55;
+        position: fixed;
+        top: 85%;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    .foooterinfo h5 {
+        font-weight: 400;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    
+    .container {
+        max-width: 960px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 15px;
+    }
+
+    .navbar {
+        padding: 50px 0 0 0;
+    }
+
+    .phone {
+        padding-left: 5%;
+    }
+
+
+    .link a {
+        margin-left: 0px;
+    }
+
+    .linkPHP, .linkYii2, .linkLaravel {
+        color: #ffdd28;
+        padding-left: 15px;
+    }
+
+    .linkJavaScript, .linkVueJS, .linkjQuery {
+        color: #60d38e;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .beslan {
+        width: 170px;
+        height: 145px;
+        margin: auto;
+    }
+
+    .section {
+        width: 455px;
+        height: 300px;
+        color: #000000;
+        background-color: #ffffff;
+        overflow: auto;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .section1, .section2, .section3 {
+        padding-left: 0px;
+        padding-top: 10px;
+        font-size: 26px;
+    }
+
+    hr {
+        height: 2px;
+        border: none;
+        background: #00000088;
+        margin-top: 31px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section4 h5 {
+        color: #ffffff;
+        padding-left: 15px;
+        margin-block: 7px;
+        font-size: 26px;
+        font-weight: 400;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        opacity: 0.55;
+        position: fixed;
+        top: 85%;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    .foooterinfo h5 {
+        font-weight: 400;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    
+    .container {
+        max-width: 724px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 15px;
+    }
+
+    .navbar {
+        padding: 50px 0 0 0;
+    }
+
+    .phone {
+        padding-left: 28%;
+        padding-bottom: 8px;
+    }
+
+
+    .link a {
+        margin-left: 0px;
+    }
+
+    .linkPHP, .linkYii2, .linkLaravel {
+        color: #ffdd28;
+        padding-left: 15px;
+    }
+
+    .linkJavaScript, .linkVueJS, .linkjQuery {
+        color: #60d38e;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .beslan {
+        width: 170px;
+        height: 145px;
+        margin: auto;
+    }
+
+    .section {
+        width: 455px;
+        height: 300px;
+        color: #000000;
+        background-color: #ffffff;
+        overflow: auto;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .section1, .section2, .section3 {
+        padding-left: 0px;
+        padding-top: 10px;
+        font-size: 26px;
+    }
+
+    hr {
+        height: 2px;
+        border: none;
+        background: #00000088;
+        margin-top: 31px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section4 h5 {
+        color: #ffffff;
+        padding-left: 15px;
+        margin-block: 7px;
+        font-size: 26px;
+        font-weight: 400;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        opacity: 0.55;
+        position: fixed;
+        top: 85%;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    .foooterinfo h5 {
+        font-weight: 400;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+
+    .container {
+        max-width: 289px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 15px;
+    }
+
+    .navbar {
+        padding: 50px 0 0 0;
+    }
+
+    .phone {
+        padding-left: 18%;
+        padding-bottom: 8px;
+    }
+
+
+    .link a {
+        margin-left: 0px;
+    }
+
+    .linkPHP, .linkYii2, .linkLaravel {
+        color: #ffdd28;
+        padding-left: 15px;
+    }
+
+    .linkJavaScript, .linkVueJS, .linkjQuery {
+        color: #60d38e;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .beslan {
+        width: 170px;
+        height: 145px;
+        margin: auto;
+    }
+
+    .section {
+        width: 291px;
+        height: 286px;
+        color: #000000;
+        background-color: #ffffff;
+        overflow: auto;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .section1, .section2, .section3 {
+        padding-left: 0px;
+        padding-top: 24px;
+        font-size: 16px;
+    }
+
+    hr {
+        height: 2px;
+        border: none;
+        background: #00000088;
+        margin-top: 19px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section4 h5 {
+        color: #ffffff;
+        padding-left: 15px;
+        margin-block: 0px;
+        font-size: 20px;
+        font-weight: 400;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        opacity: 0.55;
+        position: fixed;
+        top: 85%;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    .foooterinfo h5 {
+        font-weight: 400;
+    }
+}
+
+@media only screen and (max-width: 320px) {
+
+    .container {
+        max-width: 320px;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 15px;
+    }
+
+    .navbar {
+        padding: 50px 0 0 0;
+    }
+
+    .phone {
+        padding-left: 18%;
+        padding-bottom: 8px;
+    }
+
+
+    .link a {
+        margin-left: 0px;
+    }
+
+    .linkPHP, .linkYii2, .linkLaravel {
+        color: #ffdd28;
+        padding-left: 15px;
+    }
+
+    .linkJavaScript, .linkVueJS, .linkjQuery {
+        color: #60d38e;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .linkDB, .linkMySQL, .linkSQL {
+        color: #39a1a6;
+        padding-left: 15px;
+    }
+
+    .beslan {
+        width: 170px;
+        height: 145px;
+        margin: auto;
+    }
+
+    .section {
+        width: 291px;
+        height: 266px;
+        color: #000000;
+        background-color: #ffffff;
+        overflow: auto;
+        margin: auto;
+        border-radius: 20px;
+    }
+
+    .section1, .section2, .section3 {
+        padding-left: 0px;
+        padding-top: 22px;
+        font-size: 16px;
+    }
+
+    hr {
+        height: 2px;
+        border: none;
+        background: #00000088;
+        margin-top: 10px;
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+
+    .section4 h5 {
+        color: #ffffff;
+        padding-left: 15px;
+        margin-block: 19px;
+        font-size: 16px;
+        font-weight: 400;
+    }
+
+    .footer {
+        width: 100%;
+        height: 100%;
+        text-align: center;
+        opacity: 0.55;
+        position: fixed;
+        top: 85%;
+        color: aliceblue;
+        background-color: black;
+    }
+
+    .foooterinfo h5 {
+        font-weight: 400;
+    }
+}
